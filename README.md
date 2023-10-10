@@ -34,7 +34,3 @@ Enjoy :grin:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-
-
-### Resume
-![alt text](https://github.com/asilich123/Resume_Projects/blob/main/Resume/Silich%20Resume%202022.png?raw=true)
