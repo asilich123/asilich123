@@ -11,7 +11,7 @@ Within each subdirectory, you will find a short explanation of the project, some
 Enjoy :grin: 
 
 
-## Languages & Data Science Tools
+## Languages and Data Science Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
