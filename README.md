@@ -1,8 +1,8 @@
-## Hello and Welcome
+# Hello and Welcome
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Adrian%27s+GitHub)](https://git.io/typing-svg)
 
-### Bio
+## Bio
 
 Within the 'Resume Projects' directory pinned below are projects that demonstrate some of my many skills. Some of these projects were done for business, some for education, and some for skill development. 
 
@@ -11,7 +11,7 @@ Within each subdirectory, you will find a short explanation of the project, some
 Enjoy :grin: 
 
 
-### Languages, Frameworks, and Tools
+## Languages, Frameworks, and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
