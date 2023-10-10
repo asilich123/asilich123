@@ -33,7 +33,7 @@ https://www.linkedin.com/in/adrian-silich/
 
 ### Bio
 
-Within the 'Resume Projects' directory are projects that demonstrate some of the many skills highlighted in my resume. Some of these projects were done for business, some for education, and some for skill development. 
+Within the pinned 'Resume Projects' directory are projects that demonstrate some of the many skills highlighted in my resume. Some of these projects were done for business, some for education, and some for skill development. 
 
 Within each subdirectory, you will find a short explanation of the project, some skills demonstrated, and any additional notes I thought were relevant. Below you'll find my resume. Please feel free to reach out to me with any questions. 
 
