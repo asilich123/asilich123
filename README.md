@@ -32,6 +32,7 @@ https://www.linkedin.com/in/adrian-silich/
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
+### Bio
 
 Within the 'Resume Projects' directory are projects that demonstrate some of the many skills highlighted in my resume. Some of these projects were done for business, some for education, and some for skill development. 
 
