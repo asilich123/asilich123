@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+Adrian%27s+GitHub)](https://git.io/typing-svg)
 
-## Bio
-
-Within the ***Resume Projects directory pinned below*** are projects that demonstrate some of my many skills as well as my resume. Some of these projects were done for business, some for education, and some for skill development. 
-
-Within each subdirectory, you will find a short explanation of the project, some skills demonstrated, and any additional notes I thought were relevant. Please feel free to reach out to me with any questions. 
-
-Enjoy :grin: 
-
 
 ## Languages and Data Science Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
